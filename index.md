@@ -76,7 +76,7 @@ Community Contribution Award, DUT, Oct. 2013
 
 Social Practice Award, DUT, Oct. 2013
 
-### Publication
+### Publications
 #### Distantly Supervised Relation Extraction through a Trade-off Mechanism. 
 
 Jun Ni, Yu Liu, Kai Wang, Zhehuan Zhao, Quan Z. Sheng, International Joint Conference on Neural Networks, Budapest Hungary, 14-19 July 2019;
