@@ -77,13 +77,21 @@ Community Contribution Award, DUT, Oct. 2013
 Social Practice Award, DUT, Oct. 2013
 
 ### Publications
+
+#### Multi-teacher Knowledge Distillation for Knowledge Graph Completion. 
+Kai Wang, Yu Liu, Quan Z. Sheng. CoRR abs/2010.07152 (2020)
+
+#### Enhancing knowledge graph embedding by composite neighbors for link prediction. 
+
+Kai Wang, Yu Liu, Xiujuan Xu, Dan Lin, Quan Z. Sheng. Computing 102(12): 2587-2606, 2020;
+
 #### Distantly Supervised Relation Extraction through a Trade-off Mechanism. 
 
 Jun Ni, Yu Liu, Kai Wang, Zhehuan Zhao, Quan Z. Sheng, International Joint Conference on Neural Networks, Budapest Hungary, 14-19 July 2019;
 
-#### Knowledge Graph Embedding with Entity Neighbors and Deep Memory Network. 
+#### Offering Artificial Intelligence Development Situation Analysis Service for Users.
 
-Kai Wang, Yu Liu, Xiujuan Xu, & Dan Lin. 2018, ArXiv, abs/1808.03752;
+Xu, Xiujuan, Tingting Jiang, Shimin Shan, Jun Ni, Kai Wang, Zhenlong Xu, and Yu Liu. In International Conference on Service-Oriented Computing, 439–42 2018.
 
 #### Feature-based Compositing Memory Networks for Aspect-based Sentiment Classification in Social Internet of Things. 
 
