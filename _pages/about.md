@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Fellow at Nanyang Technological University, Singapore #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Fellow at Nanyang Technological University, Singapore # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
