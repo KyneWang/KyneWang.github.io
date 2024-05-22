@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Research Fellow at Nanyang Technological University, Singapore 
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
