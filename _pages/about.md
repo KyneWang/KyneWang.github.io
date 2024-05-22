@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Fellow at Nanyang Technological University, Singapore # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Fellow at Nanyang Technological University, Singapore 
+# <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -10,7 +11,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: kai_wang@ntu.edu.sg</p>
-    # <p>Nanyang Technological University, Singapore</p>
 
 # news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
