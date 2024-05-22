@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Kyne Wang's Blogs # blog_name will be displayed in your blog page
-blog_description: Understand all things and make the world colorful! 
+blog_description: Link all things and make the world colorful! 
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
