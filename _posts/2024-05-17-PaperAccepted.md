@@ -3,8 +3,8 @@ layout: post
 title: Three Papers Accepted by Top Confs
 date: 2024-05-17 20:32:13
 description: Paper Acceptance by VLDB, ACL and KDD
-tags: paper acceptance
-categories: paper acceptance
+tags: paper
+categories: paper
 ---
 
 ## Paper Acceptance in May 2024
