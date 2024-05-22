@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: kai_wang@ntu.edu.sg</p>
-    <p>Nanyang Technological University, Singapore</p>
+    # <p>Nanyang Technological University, Singapore</p>
 
 # news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
