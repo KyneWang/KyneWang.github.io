@@ -8,9 +8,9 @@ middle_name:
 last_name: Wang
 email: kai_wang@ntu.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Kai Wang obtained his Bachelor, Master, Doctor degrees in Software Engineering from Dalian University of Technology, Dalian, P.R. China 
-  in 2015, 2019 and 2022 respectively. Kai submitted his Cotutelle Ph.D. thesis at the School of Computing, Macquarie University supervised 
-  by Prof. Dr. Michael Sheng in 2022. Kai is currently a postdoctoral research fellow at Nanyang Technological University, Singapore. 
+  Kai Wang is currently a postdoctoral research fellow at Nanyang Technological University, Singapore. 
+  He obtained his Ph.D. degrees from Macquarie University, Australia and Dalian University of Technology, P.R. China in 2022, 
+  and obtained his Bachelor, Master degrees in Software Engineering from Dalian University of Technology in 2015 and 2019 respectively. 
   Kai's research interests include, but are not limited to, Knowledge Graph Reasoning, Graph Neural Networks, and Large Language Models. 
   He has published a number of papers at the top conferences and journals of these research areas, i.e., VLDB, ACL, KDD, IJCAI, EMNLP, and the Web Conference.
 footer_text: >
