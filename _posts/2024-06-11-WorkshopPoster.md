@@ -11,8 +11,8 @@ categories: service
 
 I am glad to attend the NTU-Imperial Cloud System Workshop on 10 June 2024, and showcase our work accepted by VLDB 2024 during the poster session!
 
-The workshop brought together experts and researchers from around the world to discuss the latest advancements in cloud systems. It was an excellent opportunity to engage with leading figures in the field, exchange ideas, and explore potential collaborations.
+The workshop brought together experts and researchers from both Singapore and UK to discuss the latest advancements in cloud systems, especially regarding AI and LLMs. It was an excellent opportunity to engage with leading figures in the field, exchange ideas, and explore potential collaborations.
 
 Attending this workshop was a valuable experience, providing insights into the current state and future directions of cloud systems. 
 
-I would like to thank the organizers for this opportunity and look forward to participating in similar events in the future.
+I would like to thank the organizers, Dr. Dmitrii Ustiugov and Dr. Marios Kogias, for this opportunity and look forward to participating in similar events in the future.
