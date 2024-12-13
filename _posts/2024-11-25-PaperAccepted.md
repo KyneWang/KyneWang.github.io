@@ -8,3 +8,5 @@ categories: paper
 ---
 
 ## A Research Paper is Accepted by IEEE TKDE
+
+Many thanks to Prof. Luo and all our co-authors for their hard work and dedication!
